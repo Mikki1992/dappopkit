@@ -1,20 +1,65 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of popular songs of different decades.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which song by Elvis was a hit in the 1950s?",
+      "answers": ["Hound", "Blue", "Love"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which Beatles song was a hit in the 1960s?",
+      "answers": ["Hey", "Help", "Love"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which song by ABBA was a hit in the 1970s?",
+      "answers": ["Dancing", "Winner", "Mama"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Michael Jackson was a hit in the 1980s?",
+      "answers": ["Thriller", "Billie", "Bad"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Nirvana was a hit in the 1990s?",
+      "answers": ["Teen", "Lithium", "Come"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Britney Spears was a hit in the 2000s?",
+      "answers": ["Baby", "Oops", "Toxic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Adele was a hit in the 2010s?",
+      "answers": ["Hello", "Skyfall", "Someone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Beyoncé was a hit in the 2000s?",
+      "answers": ["Halo", "Single", "Irreplace"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which song by Madonna was a hit in the 1980s?",
+      "answers": ["Like", "Vogue", "Holiday"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Queen was a hit in the 1970s?",
+      "answers": ["Bohemian", "Champions", "Rhapsody"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by The Rolling Stones was a hit in the 1960s?",
+      "answers": ["Satisfaction", "Jumpin", "Paint"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which song by Katy Perry was a hit in the 2010s?",
+      "answers": ["Firework", "Roar", "Teenage"],
+      "correctAnswerIndex": 1
     }
   ]
 }
